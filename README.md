@@ -1,17 +1,17 @@
 # btc-wallet-project
 
-> Command line commands. wallet.py 
+- Command line commands. wallet.py 
 With instructions, help, flags, like previous project.
 
-> Basic operations. Public and private key pair.
+- Basic operations. Public and private key pair.
 
-> Class wallet. Functions as defs. Such as return a list of keys. New key pair.
+- Class wallet. Functions as defs. Such as return a list of keys. New key pair.
 
-> Wallet directory in ssh. Persistence to store and manage keys. 
+- Wallet directory in ssh. Persistence to store and manage keys. 
 
-> _repr_ representation in python. 
+- _repr_ representation in python. 
 
-> class key-pair. 
+- class key-pair. 
 
 Public (key) -> base 58 string.
 
